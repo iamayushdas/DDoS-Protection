@@ -1,0 +1,15 @@
+GET https://example.com/comments/1 HTTP/1.1
+###
+GET http://localhost:3000
+###
+GET http://localhost:3000/open
+###
+GET http://localhost:3000/api
+###
+GET http://localhost:3000/resister
+###
+POST http://localhost:3000/register
+###
+GET http://localhost:3000/login
+###
+POST http://localhost:3000/login
